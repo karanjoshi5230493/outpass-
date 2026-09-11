@@ -2,4 +2,4 @@ I tried to build an Outpass Generator for the Hostel using JSP, HTML, JavaMail, 
 I developed this project when few resources were available online; studies were done traditionally.
 Drawbacks:
 1.No Framework is used, like springboot and React or Angular.
-2. An array is used for the number of students.
+2. An array is used for the size of students.
